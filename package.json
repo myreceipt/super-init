@@ -1,0 +1,27 @@
+{
+  "name": "super-init",
+  "version": "1.4.7",
+  "description": "Super Enterprise Initialization",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Mamak Kurniawan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myreceipt/super-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myreceipt/super-init/issues"
+  },
+  "homepage": "https://github.com/myreceipt/super-init#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
